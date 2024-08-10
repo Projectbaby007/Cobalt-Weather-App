@@ -1,0 +1,8 @@
+{
+    "workbench.editor.defaultBinaryEditor": "repl",
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ]
+}
