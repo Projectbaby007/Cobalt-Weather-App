@@ -1,4 +1,3 @@
-
 # import required modules
 import tkinter as tk
 import requests
